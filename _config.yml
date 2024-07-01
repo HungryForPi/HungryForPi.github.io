@@ -27,7 +27,7 @@ github_username:  HungryForPi
 
 # Build settings
 theme: jekyll-theme-hydejack
-accent_image: /assets/img/flowerbg_edited.jpg
+accent_image: /_assets/img/flowerbg_edited.jpg
 accent_color: rgb(163, 100, 131)
 
 plugins:
