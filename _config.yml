@@ -22,13 +22,13 @@ title: Aditya Pahuja
 email: avpahuja@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aditya's little corner of the Internet.
-url: "https://hungryforpi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  HungryForPi
 
 # Build settings
 theme: jekyll-theme-hydejack
-accent_image: /_assets/img/flowerbg_edited.jpg
-accent_color: rgb(163, 100, 131)
+accent_image: https://github.com/HungryForPi/HungryForPi.github.io/blob/925bff8d8d09391cb0292f48043e8fc66d38ea09/_assets/img/flowerbg_edited.jpg
+theme_color: rgb(163, 100, 131)
 
 plugins:
   - jekyll-feed
