@@ -22,6 +22,7 @@ title: Aditya Pahuja
 email: avpahuja@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aditya's little corner of the Internet.
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  HungryForPi
 
 # Build settings
